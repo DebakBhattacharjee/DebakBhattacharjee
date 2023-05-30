@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Debak Bhattacharjee</h1>
-<h3 align="center">A passionate MACHINE LEARNING DEVELOPER from India</h3>
+<h3 align="center">A passionate CLOUD DATA ENGINEER from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/w6Afg5fCX8h_wkW1FD2XLMOuKUOXVT9tN2hJWmhl6Rc/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzExNjIw/Nzcvc2NyZWVuc2hv/dHMvMzg0ODkxNC9w/cm9ncmFtbWVyLmdp/Zg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debakb&label=Profile%20views&color=0e75b6&style=flat" alt="debakb" /> </p>
 
-- 🌱 I’m currently learning **Deployment**
+- 🌱 I’m currently learning **DOCKER AND KUBERNETES**
 
-- 💬 Ask me about **Neural Networks**
+- 💬 Ask me about **ETL's**
 
 - 📫 How to reach me **debakbhattacharjee89@gmail.com**
 
